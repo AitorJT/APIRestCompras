@@ -26,7 +26,7 @@ POST /compras
 {
     "cliente_id": 7,
     "fecha": "2022-08-03T16:49:00",
-    "metodo_pago": "2022-04-08T11:00:00",
+    "metodo_pago": "tarjeta",
     "estado": "pendiente"
 }
 ```

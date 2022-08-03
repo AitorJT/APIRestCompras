@@ -1,0 +1,12 @@
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\bin\Debug\net6.0\APICompras.Contracts.deps.json
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\bin\Debug\net6.0\APICompras.Contracts.dll
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\bin\Debug\net6.0\APICompras.Contracts.pdb
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\obj\Debug\net6.0\APICompras.Contracts.csproj.AssemblyReference.cache
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\obj\Debug\net6.0\APICompras.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\obj\Debug\net6.0\APICompras.Contracts.AssemblyInfoInputs.cache
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\obj\Debug\net6.0\APICompras.Contracts.AssemblyInfo.cs
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\obj\Debug\net6.0\APICompras.Contracts.csproj.CoreCompileInputs.cache
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\obj\Debug\net6.0\APICompras.Contracts.dll
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\obj\Debug\net6.0\refint\APICompras.Contracts.dll
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\obj\Debug\net6.0\APICompras.Contracts.pdb
+C:\Proyectos\APIRestCompras\APICompras\APICompras.Contracts\obj\Debug\net6.0\ref\APICompras.Contracts.dll

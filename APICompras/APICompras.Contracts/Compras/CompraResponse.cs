@@ -1,6 +1,6 @@
 namespace APICompras.Contracts.Compras;
 
-public record CreateCompraResponse(
+public record CompraResponse(
     int compra_id,
     int cliente_id,
     DateTime fecha,

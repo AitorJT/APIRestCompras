@@ -4,24 +4,27 @@ using Microsoft.AspNetCore.Mvc;
 namespace APICompras.Controllers;
 
 [ApiController]
+[Route("[controller]")]
 public class CompraController : ControllerBase{
-    
-    [HttpPost("/compras")]
+
+    [HttpPost()]
     public IActionResult CreateCompra(CreateCompraRequest request){
+
+        
         return Ok(request);
     }
 
-    [HttpGet("/compras/{compraId:int}")]
+    [HttpGet("{compraId:int}")]
     public IActionResult GetCompra(int compraId){
         return Ok(compraId);
     }
 
-    [HttpPut("/compras/{id:guid}")]
+    [HttpPut("{compraId:int}")]
     public IActionResult UpsertCompra(UpsertCompraRequest request, int compraId){
         return Ok(request);
     }
 
-    [HttpDelete("/compras/{id:guid}")]
+    [HttpDelete("{compraId:int}")]
     public IActionResult DeleteCompra(int compraId){
         return Ok(compraId);
     }
